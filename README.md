@@ -17,12 +17,12 @@ A Python-based educational tool demonstrating password hashing, brute force, and
 
 <h2>Project walk-through:</h2>
 <p align="left">
-This displays a user interface from an application named "Password Cracker." The <br/> interface prompts the user to select a hashing algorithm and presents three options: MD5, SHA256, and bcrypt.
+This displays a user interface from an application named "Password Cracker." <br/> The interface prompts the user to select a hashing algorithm and presents <br/> three options: MD5, SHA256, and bcrypt.
  <br/><br/>
   <img src="Screenshot 2025-05-14 122709.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <br/>
 <p align="left">
-This message box appears after selecting the MD5 hashing option, displaying both the <br/> original password ("password123") and its MD5 hash ("482c811da5d5b4bc6d497ffa98491e38").
+This message box appears after selecting the MD5 hashing option, displaying both the <br/> original password and its MD5 hash.
  <br/><br/>
   <img src="Screenshot 2025-05-14 122721.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <br/>
